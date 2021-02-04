@@ -20,7 +20,7 @@ For example:
 
 Example of Similar and Copies:
 
-![Example of Similar and Copies](Similar_and_copies.png)
+![Example of Similar and Copies](Similar_and_Copies.png)
 
 >Terminology
 
@@ -57,7 +57,7 @@ Example:
 ## Representing binary trees in memory
 ### Linked representation
 In C++ we can use linked list to store binary tree. We can make a struct node which contain three things ; info of the node, pointer of the left child of the node , pointer of the right child of the node and if needed we can keep a pointer of parent of the node. We also need a pointer to indicate the root of the tree.
-![Linked representation of Binary tree](linked_representation_of_BT.png)
+![Linked representation of Binary tree](Linked_representation_of_BT.png)
 ### Sequential representation
 Sequential representation e sob data gula rakhar jonno shudhu ekta array use kora hoy.
 Erokom representation e root ke array er index 1 e rakha hoy. Prottek node er left child oi node er (index * 2) index e thakbe r right child (index * 2)+1 index e thakbe. R kunu node er parent holo oi node er floor(index/2).
@@ -159,13 +159,13 @@ To keep balance of the AVL tree, after insertion if the tree become unbalanced t
 4. RL rotation
 
 ## LL Rotation
-![LL Rotation](LL_rotation.png)
+![LL Rotation](LL_Rotation.png)
 ## RR Rotation
-![LL Rotation](RR_rotation.png)
+![LL Rotation](RR_Rotation.png)
 ## LR Rotation
-![LR Rotation](LR_rotation.png)
+![LR Rotation](LR_Rotation.png)
 ## RL Rotation
-![RL Rotation](RL_rotation.png)
+![RL Rotation](RL_Rotation.png)
 
 >AVL Tree Deletion
 
