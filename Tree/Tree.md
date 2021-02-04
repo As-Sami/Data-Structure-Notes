@@ -18,7 +18,8 @@ For example:
 - Terminal nodes : A node which has no successor
 - Similar and Copies
 
-Example of Similar and Copies:
+Example of Similar and Copies:  
+
 ![Example of Similar and Copies](Similar_and_copies.png)
 
 >Terminology  
@@ -100,3 +101,64 @@ D B F E A G C L J H K
 >Postorder  
 
 D F E B G L J K H C A
+
+
+
+__________________________
+
+
+# Binary Search Tree
+Its a binary tree in which every node's left child's value is less than the node value and right child's value is greater than the node value(We can keep the equal value to the right child). See the figure .
+
+![Binary Tree](graph_6.png)   
+
+>Remark
+
+It also enable use to search for and find an element with an average running time f(n) = O(log<sub>2</sub>n). It also enable us to insert and delete any element easily. With an average complexity(for insertion) O(log<sub>2</sub>n)
+
+>Insertion
+
+To insert any value x in BST first we compare the root value with x. If root_val>x then we traverse to the left child, otherwise we traverse to the right child. Then we compare the node it traversed to and traverse again and take to its appropriate position.
+
+>Search
+
+Searching in BST is similar to inserting. In insertion we traverse the tree and find the appropriate position for the value to be inserted. Here we traverse the tree and compare the node value if it is equal to the value what we are searching for.   
+
+>Deletion
+
+There are three cases for deleting a node from BST
+1. if the node N has no children, then simply make the location null. That means if N was the left child of parent node, make the left child pointer null. If the right child, then make the right null.
+2. if the node N has one child, then replace the node N with child and then delete N.
+3. if the node N has two child then we have to find the inorder successor of node N, then replace the inorder successor with N and then delete N. To find the inorder successor of N first we traverse to the right of N, then we traverse to(sometimes we do not need to traverse, if the node has no left child) left until we get the left child of the node NULL. That node will be Inorder successor of node N. After replacing The inorder successor and node N, we can delete the node N. The deletion of N will be in case 1 or 2.
+
+![Case 1](case1.png)
+![Case 2](case2.png)
+![Case 3 example 1](case3_1.png)
+![Case 3 example 2](case3_2.png)  
+
+
+# AVL Tree(Adelson-Velskii-Landis)
+If we insert a sorted sequence in BST(insert 1,2,3,4,5,6 .... or 6,5,4,3,2,1) then the tree will be right skewed or left skewed and the complexity of insertion and searching will be O(n) instead of O(log<sub>2</sub>n). So to keep the complexity less Adelson Velskii Landis intruduced AVL trees. It also called Balanced Binary Tree.  
+
+A binary tree is an AVL tree if and only if the balance factor of all nodes are either -1 or 0 or 1.
+
+>Balance factor
+
+Balance factor of a node is an integer value which is   
+BF = d<sub>L</sub> - d<sub>R</sub>  
+&nbsp;&nbsp;&nbsp;&nbsp; = (depth of left sub tree - depth of right sub tree).  
+
+
+
+>AVL Tree insertion
+
+To keep balance of the tree(to keep all node's bf [-1,1]), after insertion if the tree become unbalanced then the tree got rotated. There are 4 types of rotation in insertion:-  
+1. LL rotation
+2. RR rotation
+3. LR rotation
+4. RL rotation
+
+## LL Rotation
+![LL Rotation](LL_rotation.PNG)
+## RR Rotation
+![LL Rotation](RR_rotation.PNG)
