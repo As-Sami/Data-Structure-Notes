@@ -176,3 +176,8 @@ To keep balance of the AVL tree, after deleting a node if the tree become unbala
 4. L0
 5. L1
 6. L-1
+
+## R0 Rotation
+![R0 Rotation](R0_rotation.jpg)
+## L0 Rotation
+![L0 Rotation](L0_rotation.jpg)
