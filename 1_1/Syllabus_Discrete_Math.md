@@ -1,9 +1,9 @@
 # Discrete Math
 
 Propositional Calculas:
-- [ ] [ ] Proposition
-- [ ] [ ] Predicate
-- [ ] [ ] Quantifier
+- [ ] Proposition
+- [ ] Predicate
+- [ ] Quantifier
 
 Propositional Calculas:
 - [ ] Proposition
