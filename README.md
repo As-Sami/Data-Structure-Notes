@@ -1,13 +1,12 @@
-# Courses
+# Exam routine
 
-## Theory - 5
-## Lab - 3
 
-1. Data Structure
-2. Data Structure  Lab
-3. Electronic Devices and Circuits
-4. Electronic Devices and Circuits Lab
-5. Mechanics, Wave, Heat and Thermodynamics
-6. Calculus
-7. Engineering Ethics and Cyber Law
-8. Project Work-I
+|-----------|---------------|----------|----------------------------------------------|
+| Date      | Course        | Time     |  Room                                        |
+|-----------|---------------|----------|----------------------------------------------|
+| 8/3/2021  | C Programing  | 10:30 AM |  Gallery 1 & 2, 129, 131, 329, 331, 429, 431 |
+| 11/3/2021 | Discrete Math | 10:30 AM |  Gallery 1 & 2, 129, 131, 329, 331, 429, 431 |
+| 15/3/2021 | EEE           | 10:30 AM |  Gallery 1 & 2, 129, 131, 329, 331, 429, 431 |
+| 20/3/2021 | Math          | 10:30 AM |  Gallery 1 & 2, 129, 131, 329, 331, 429, 431 |
+| 23/3/2021 | English       | 10:30 AM |  Gallery 1 & 2, 129, 131, 329, 331, 429, 431 |
+|-----------|---------------|----------|----------------------------------------------|
