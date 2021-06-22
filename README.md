@@ -2,26 +2,31 @@
 
 | Date         | Course        | Time     | 
 |--------------|---------------|----------|
-| 03/7/2021    | EEE           | 10:30 AM |
-| 06/3/2021    | English       | 10:30 AM |
-| 6-7/7/2021   | EEE Viva      | 10:30 AM |
-| 10/7/2021    | C Written     | 10:30 AM |
-| 11-12/7/2021 | English Viva  | 10:30 AM |
-| 13/7/2021    | DM written    | 10:30 AM |
-| 14-15/7/2021 | C Viva        | 10:30 AM |
-| 17/7/2021    | Math written  | 10:30 AM |
-| 1-2/8/2021   | DM Viva       | 10:30 AM |
-| 2,5-8/8/2021 | Math Viva        | 10:30 AM |
+| 03/7/2021    | EEE           | - |
+| 06/3/2021    | English       | - |
+| 6-7/7/2021   | EEE Viva      | - |
+| 10/7/2021    | C Written     | - |
+| 11-12/7/2021 | English Viva  | - |
+| 13/7/2021    | DM written    | - |
+| 14-15/7/2021 | C Viva        | - |
+| 17/7/2021    | Math written  | - |
+| 1-2/8/2021   | DM Viva       | - |
+| 2,5-8/8/2021 | Math Viva     | - |
 
 
 
     
 # 2nd semester exam routine
 
-| Date      | Course         | Time     |  Room                                        |
-|-----------|----------------|----------|----------------------------------------------|
-| 5/4/2021  | Date Structure | 10:30 AM |  Gallery 1 & 2, 129, 131, 329, 331, 429, 431 |
-| 8/4/2021  | Ethics         | 10:30 AM |  Gallery 1 & 2, 129, 131, 329, 331, 429, 431 |
-| 15/4/2021 | Calculus       | 10:30 AM |  Gallery 1 & 2, 129, 131, 329, 331, 429, 431 |
-| 20/4/2021 | EEE            | 10:30 AM |  Gallery 1 & 2, 129, 131, 329, 331, 429, 431 |
-| 24/4/2021 | Physics        | 10:30 AM |  Gallery 1 & 2, 129, 131, 329, 331, 429, 431 |
+| Date         | Course          | Time     |
+|--------------|-----------------|----------|
+| 04/8/2021    | DS written      | - |
+| 09/8/2021    | EEE written     | - |
+| 10-11/8/2021 | DS viva         | - |
+| 12/8/2021    | Math written    | - |
+| 14-16/8/2021 | EE viva         | - |
+| 17/8/2021    | Physics written | - |
+| 18-19/8/2021 | Math viva       | - |
+| 21-22/8/2021 | Physics viva    | - |
+| 23/8/2021    | Ethics written  | - |
+| 24-25/8/2021 | Ethics viva     | - |
